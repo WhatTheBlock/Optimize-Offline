@@ -6,18 +6,16 @@
   ],
   "SourcePath": "Path:\\To\\SourceImage",
   "WindowsApps": "Select",
-  "SystemApps": true,
+  "SystemApps": false,
   "Capabilities": true,
   "Packages": false,
   "Features": true,
   "DeveloperMode": false,
   "WindowsStore": false,
   "MicrosoftEdge": false,
-  "Win32Calc": true,
-  "Dedup": true,
+  "Win32Calc": false,
+  "Dedup": false,
   "DaRT": [
-    "Setup",
-    "Recovery"
   ],
   "Registry": true,
   "Additional": {
@@ -31,5 +29,5 @@
     "Drivers": false,
     "NetFx3": false
   },
-  "ISO": "No-Prompt"
+  "ISO": "Prompt"
 }
