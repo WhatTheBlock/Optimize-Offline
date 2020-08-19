@@ -29,5 +29,5 @@
     "Drivers": false,
     "NetFx3": false
   },
-  "ISO": "Prompt"
+  "ISO": "No-Prompt"
 }
